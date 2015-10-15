@@ -64,7 +64,7 @@ task :push do
   puts
 
   puts   "Building site...."
-  system "jekyll build"
+  system "bundle exec jekyll build"
   puts   "Site updated."
   puts
 
