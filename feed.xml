@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chenshaoao</title>
-    <description>静、思、动、放</description>
+    <description>静.思.动.放</description>
     <link>http://chenshaoao.github.io/</link>
     <atom:link href="http://chenshaoao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Oct 2015 09:50:55 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2015 09:50:55 +0800</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2015 09:59:51 +0800</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2015 09:59:51 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -34,6 +34,17 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello, there</title>
+        <description>&lt;p&gt;yes it’s my post&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://chenshaoao.github.io/2014/10/20/hello-there.html</link>
+        <guid isPermaLink="true">http://chenshaoao.github.io/2014/10/20/hello-there.html</guid>
+        
         
       </item>
     
